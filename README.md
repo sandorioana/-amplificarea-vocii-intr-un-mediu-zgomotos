@@ -1,4 +1,3 @@
- # ioana_sandor
 
 ## 🎯 Scopul proiectului
 
