@@ -1,0 +1,5 @@
+Dataset LibriSpeech – https://www.openslr.org/12
+Dataset UrbanSound8K – https://urbansounddataset.weebly.com/urbansound8k.html
+fisier_adhoc_folosit.mp4
+
+
