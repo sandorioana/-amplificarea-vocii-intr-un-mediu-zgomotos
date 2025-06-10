@@ -1,11 +1,10 @@
 
-## 🎯 Scopul proiectului
+##  Scopul proiectului
 
 Amplificarea vocii într-un mediu zgomotos folosind metode tradiționale (ICA, filtrare Wiener) și rețele neuronale (Autoencoder, LSTM).
 
----
 
-## 📁 Structura proiectului
+ 📁 Structura proiectului
 
 - `ProjectPSVsandorIOANA_GATA.ipynb` – codul principal în Google Colab
 - `UrbanSound8K.tar.gz`, `test-clean.tar.gz` – seturi de date audio
@@ -13,7 +12,7 @@ Amplificarea vocii într-un mediu zgomotos folosind metode tradiționale (ICA, f
 
 ---
 
-## ▶️ Cum se rulează
+## Cum se rulează
 
 1. Deschide `ProjectPSVsandorIOANA_GATA.ipynb` în [Google Colab](https://colab.research.google.com)
 2. Încarcă fișierele `.tar.gz` în Google Drive
@@ -27,7 +26,7 @@ Amplificarea vocii într-un mediu zgomotos folosind metode tradiționale (ICA, f
 
 ---
 
-## ⚙️ Cerințe
+##  Cerințe
 
 - Python 3.8+
 - Biblioteci:
@@ -36,7 +35,7 @@ Amplificarea vocii într-un mediu zgomotos folosind metode tradiționale (ICA, f
 
 ---
 
-## 📊 Rezultate
+## Rezultate
 
 - Spectrograme audio procesate
 - Fișiere audio redabile
@@ -44,7 +43,7 @@ Amplificarea vocii într-un mediu zgomotos folosind metode tradiționale (ICA, f
 
 ---
 
-## 🔄 Extensii posibile
+##  Extensii posibile
 
 - Separare audio în timp real
 - Aplicații pentru asistenți vocali
